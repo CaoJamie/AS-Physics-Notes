@@ -2,8 +2,8 @@
 
 ## Electric Field
 * Field is an area where an object experienced force
-* >Electric field is the field where a charge experienced force
-* Gravatitional field is the field where an mass experienced force
+* >Electric field is the field where a _stationary_ charge experienced force
+* Gravitational field is the field where an mass experienced force
 
 ## Electric field strength
 * $E = \frac{F}{Q}$
@@ -28,18 +28,18 @@
 * $I = \frac{Q}{t}$
 * real direction of current: from negative to postive
 * Conventional direction of current: from postive to negative
-* In something
+* In a conductor
 
 ## Voltage
 * $V = \frac{E}{Q}$
 * >Energy per unit charge
 * Unit: $J/C = Nm/C = Kgms^{-2}m/As = Kgm^2A^{-1}s^{-3}$
 * $p.d. = \frac{E}{Q}$ 
-* >Energy converted from electric to other form to move the charge
+* >Energy converted from electric to other form to move the charge per unit charge
 * $ε =\frac{E}{Q}$
-* > Energy converted from other form to electric to move the charge
+* > Energy converted from other form to electric to move the charge  in a complete circuit per unit charge
 * > 1 Volt is such a voltage that use 1J of energy to move 1C of charge
-* Across something
+* Across a component
 
 ## Resistance
 * $R = \frac{V}{I}$
@@ -47,13 +47,13 @@
 * unit: $\Omega = Kgm^2A^{-2}s^{-3}$
 * actually it is a properties of materials and is not affect by voltage and current
 * Actual formula: $R=\rho \frac{L}{A}$
-* of something
+* of a conductor
 
 ## Power
 * >Power is rate of energy transfer ($P = \frac{E}{t}$)
 * $P = \frac{E}{t} = \frac{VQ}{t}$
 * $P = IV = I^2R = \frac{V^2}{R}$
-* for one variable resitance when internal resistance appereaed: the internal resistance must be the same resistance to the variable resistance to have the maximum power
+* for one variable resistance when internal resistance appeared: the internal resistance must be the same resistance to the variable resistance to have the maximum power in external resistor
 
 ## Electric Energy
 * >Power per unit time
@@ -72,10 +72,10 @@
 ## Charge is quantised
 * Charge is discreate
 * All the charge must be a whole number of charge of fundamental charge
-* $C_0 = 1.6*10^{-19}C$
+* $e = 1.6*10^{-19}C$
 
 ## DC and AC
-* DC(direct current): Electron move in one direction
+* DC(direct current):  Charges (electrons in metals and ions in electrolytes)
 * AC(alternative current): Electrion move backward and forward 
 
 ## Measuring EMF(ε) and internal resistor
