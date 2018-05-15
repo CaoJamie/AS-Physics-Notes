@@ -12,7 +12,7 @@
 * $P = \frac{F}{A}$
 * Pressure is a scalar because of __Pascal Law__: Pressure is the same in all direction, therefore pressure is a vector acting everywhere, which is no direction(this caused the up thrust)
 * Solid: Weight or Force exerted on the surface of solid $P = \frac{F}{A}$
-* Liquid:  up thrust create against weight $P = \frac{F}{A}$ or $P = \rho gh$
+* Liquid:  weight of the liquid $P = \frac{F}{A}$ or $P = \rho gh$
 * Gasses: gas molecule _move_ and _collide_ with the surface and the _change in momentum_ exerted force on the surface to create pressure $P = \frac{F}{A}$ 
 
 # Concept
