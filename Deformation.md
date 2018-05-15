@@ -17,7 +17,7 @@
 * Use Analogy with resister(parallel/Series)
 * Parallel:$k_{total} = k_1 + k_2$ (series resister)
 * Series:$k_{total} = \frac{k_1 *k_2}{k_1 + k_2}$ (parallel resister)
-* Combination: using the similar techiques in resister
+* Combination: using the similar techniques in resister  (resistors in parallel use the same formula as springs in series)
 
 ## Stress and Strain + Young's Module
 
